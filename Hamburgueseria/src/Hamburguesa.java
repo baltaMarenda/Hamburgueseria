@@ -1,3 +1,3 @@
 public class Hamburguesa {
-    int precioBase;
+    protected int precioBase;
 }
