@@ -3,7 +3,7 @@ public class HamburguesaDoble extends Hamburguesa {
     Ingredientes Ingrediente1;
     Medallon Medallon2;
     Ingredientes Ingrediente2;
-    int precioBase;
+    protected int precioBase;
 
     public int calcularPrecio(){
         return precioBase;
