@@ -1,5 +1,5 @@
 public class Ingredientes {
-    int precio;
+    protected int precio;
 
     public int getPrecio() {
         return precio;
