@@ -1,5 +1,5 @@
 public class Medallon {
-    int precio;
+    protected int precio;
 
 
 
