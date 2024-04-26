@@ -5,7 +5,7 @@ public class HamburguesaPlus extends Hamburguesa {
     Ingredientes Ingrediente2;
     Medallon Medallon3;
     Ingredientes Ingrediente3;
-    int precioBase;
+    protected int precioBase;
 
    public int calcularPrecio(){
        return precioBase;
